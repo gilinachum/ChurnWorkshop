@@ -14,3 +14,8 @@ Optionally, visit here to learn a bit on the SageMaker platform: https://www.you
 
 ## What you'll takeaway
 You’ll experience the data scientist methodology and tools, and understand what's required to take an existing use case example, and adjust it to your use case.
+
+## Getting started
+Open a SageMaker notebook, and clone the repository.  
+Students: open the notebook `xgboost_customer_churn-student.ipynb`.
+Instructor: open the notebook `xgboost_customer_churn-instructor.ipynb`.
