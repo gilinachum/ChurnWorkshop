@@ -17,5 +17,5 @@ You’ll experience the data scientist methodology and tools, and understand wha
 
 ## Getting started
 Open a SageMaker notebook, and clone the repository.  
-Students: open the notebook `xgboost_customer_churn-student.ipynb`.
+Students: open the notebook `xgboost_customer_churn-student.ipynb`, read through it and complete the code marked with `REPLACE_ME` strings.  
 Instructor: open the notebook `xgboost_customer_churn-instructor.ipynb`.
